@@ -1,5 +1,3 @@
-
-
 def printPattern(n):
  
     # Base case (When n becomes 0 or negative)
